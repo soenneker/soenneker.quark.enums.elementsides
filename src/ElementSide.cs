@@ -19,7 +19,7 @@ public sealed partial class ElementSide
     /// <summary>
     /// Sets the property on the right side of the element.
     /// This controls the space or styling on the element's right edge.
-    /// </summary>
+    /// </summary> 
     public static readonly ElementSide Right = new("right");
 
     /// <summary>
