@@ -1,6 +1,6 @@
 ﻿using Intellenum;
 
-namespace Soenneker.Quark.Enums.ElementSides;
+namespace Soenneker.Quark;
 
 /// <summary>
 /// An enumeration for Quark, representing CSS element sides.
