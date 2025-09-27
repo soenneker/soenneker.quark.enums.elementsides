@@ -8,7 +8,7 @@ namespace Soenneker.Quark.Enums;
 /// like margin, padding, border, etc. in HTML/CSS styling.
 /// </summary>
 [Intellenum<string>]
-public sealed partial class ElementSideTypeType
+public sealed partial class ElementSideType
 {
     /// <summary>
     /// Sets the property on the top side of the element.
