@@ -1,4 +1,4 @@
-using Intellenum;
+using Soenneker.Gen.EnumValues;
 
 namespace Soenneker.Quark.Enums;
 
@@ -7,7 +7,7 @@ namespace Soenneker.Quark.Enums;
 /// This enum contains all valid CSS side property values that can be used for spacing properties
 /// like margin, padding, border, etc. in HTML/CSS styling.
 /// </summary>
-[Intellenum<string>]
+[EnumValue<string>]
 public sealed partial class ElementSideType
 {
     /// <summary>
